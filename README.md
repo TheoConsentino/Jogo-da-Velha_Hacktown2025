@@ -2,7 +2,7 @@
 
 Um jogo da velha clássico desenvolvido com HTML, CSS e JavaScript.
 
-**Projeto desenvolvido na AWS Hacktown 2025**
+**Projeto desenvolvido na AWS Hacktown 2025 utilizando Amazon Q Developer**
 
 ## Funcionalidades
 
